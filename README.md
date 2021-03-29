@@ -1,0 +1,2 @@
+# NewsGame
+Bot Discord 
